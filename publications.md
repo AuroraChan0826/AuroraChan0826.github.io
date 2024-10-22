@@ -4,44 +4,69 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+## Journal Articles
 
-## Conference Paper
+- Chen Meng, Zhou, Q*., Peng, D., Yan, W.. Exploring Spatiotemporal Heterogeneity of Vegetation Changes in Subtropical Humid Karst under CO2 Fertilization (Journal of Geographical Sciences, Accepted for proofreading) -- JCR Q1, IF:4.3, First Author
+-	Peng, D & Zhou, Q*., Tang, X., Yan, W., Chen, M. (2022). Changes in soil moisture caused solely by vegetation restoration in the karst region of southwest China. Journal of Hydrology, 613:128460. -- JCR Q1 TOP, IF:5.9, Fourth Author
+-	Yan, W., Zhou, Q*., Peng, D., Luo, Y., Chen, M., & Lu, Y. (2022). Response of surface-soil quality to secondary succession in karst areas in Southwest China: Case study on a limestone slope. Ecological Engineering, 178(November 2021), 106581 -- JCR Q1, IF:3.9, Fifth Author
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
-
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
----
-
-## Ongoing Project
-
-- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
-
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
-
-<br>
-
----
-
-## Degree Thesis
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
 
   <br>
-
+  
 ---
 
 ## Early Project
 
-- [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
+-2024.06 - Present Responsible Part: Field Data Collection and Analysis
+Spatio-temporal pattern of surface apoplastic litter and its influence on vegetation water consumption in a typical karst sub-basin in western Hunan Province.
+Project Leader: Prof Xu Xianli Type: Local Natural Science Foundation
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+-2022.09 - 2024.06 Responsible Part: Field Data Collection and Analysis
+Ecohydrological Effects of Vegetation Restoration in the Context of Climate Change in Southwest Karst Region
+Project leader: Xu Xianli Type: National Key R&D Programme
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+-2019.03 - 2021.06 Responsible section: Field data analysis
+Study on the integrated response of hydrological processes for vegetation restoration in the upstream area of karst rivers and streams
+Project leader: Prof Zhou Qiowen Type: National Natural Science Foundation of China
+
+-2019.03 - 2021.06 Responsible section: Field data collection
+Guizhou Innovation Training Centre for Geography and Environmental Ecology Students
+Project Leader: Prof Zhou Qiowen Type: Undergraduate Teaching Engineering Construction Project in Guizhou Province
+
+-2018.12 - 2020.09 Responsible section: Data analysis and collation
+Digitisation and Sharing of Plant Specimens in the School of Geography and Environmental Science, Guizhou Normal University, China
+Project Leader: Mr Xiang Gang Type: Plant Sub-platform of ‘National Specimen Resource Sharing Platform’ of ‘National Science and Technology Basic Conditional Platform’ Project of Ministry of Science and Technology (Subject)
+
+-2020.10 - 2020.12 Responsible Part: Field data collection
+Evaluation of Ecological Survey on Status Changes of Guizhou Province in the Ecological Decade (2010-2020)
+Project leader: Mr Xiang Gang Commissioned by: Guizhou Provincial Department of Ecology and Environment
+
+-2020.05 - 2020.10 Responsible Part: Field data collection
+Ecological Survey and Impact Assessment of Puding Jieshan Reservoir Project
+Project leader: Mr Xiang Gang Commissioned by: Guizhou Province Survey Ecological Environment Technology Co.
+
+-2020.05 - 2020.08 Responsible Part: Field data collection
+Aquatic Ecological Survey and Evaluation of Zunyi City Centre Water Environment Comprehensive Treatment Project
+Project leader: Mr Xiang Gang Commissioned by: CEC Group Guiyang Survey and Design Institute Co.
+
+-2020.04 - 2020.08 Responsible Part: Field data collection
+Detailed Justification for Optimisation and Adjustment (Withdrawal) of Luodian Luoyang Nature Reserve
+Project leader: Mr Xiang Gang Commissioning unit: Luodian Forestry Bureau
+
+-2020.03 - 2020.08 Responsible section: Field data collection
+Scientific Assessment of the Adjustment of Zhujiashan County Nature Reserve in Juan'an County, Guizhou Province
+Project leader: Mr Xiang Gang Commissioned by: Forestry Bureau of urnan County
+
+## Facilitation of projects
+
+-2020.09-2021.09 Geography Study Practice in Secondary Schools Relying on the Research Training Platform of Universities Project Leader
+Guizhou Normal University 2019 University-level Research Training Programme for Undergraduates ‘Geography Study Practice in Secondary Schools Relying on the Research Training Platform of Universities’ Project 
+Leader and Study Activity Planner
+
+-2020.10-2021.10 Design and Practice of Secondary School Geography Research Curriculum Integrating Labour Education Project Chairperson
+Guizhou Provincial Student Innovation and Entrepreneurship Programme 2020: Design and Practice of Secondary School Geography Study Curriculum Integrating Labour Education Project 
+Leader, Master Planner
+  <br>
+
 
   <br>
