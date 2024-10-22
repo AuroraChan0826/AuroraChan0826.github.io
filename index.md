@@ -12,7 +12,7 @@ I was very fortunate to be mentored by researcher Xu Xianli(https://isa.cas.cn/s
 
 You can find my CV here: [Chen Meng's Curriculum Vitae](../file/Curriculum_Vitae.pdf)
 
-[Email](chenmeng20010826@163.com)/[Github](https://aurorachan0826.github.io/Aurora-Chan.github.io/)/[Wechat](../Wechat.jpg) 
+[Email](mailto:chenmeng20010826@163.com)/[Github](https://github.com/AuroraChan0826/AuroraChan0826.github.io)/[Wechat](images/Wechat.jpg) 
 
 ---
 
