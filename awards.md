@@ -4,26 +4,39 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Update: 20th Oct 2024
 
 ## Scholarships
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 2020 National Scholarship, Ye Shengtao Scholarship
+- 2019-2021 Three consecutive years National Inspirational Scholarships
+- 2019-2022 Four consecutive years School Grade A Scholarship
+
+  
+## Volunteer Category
+
+- 2020 “Outstanding Volunteer” at school level
+- 2020 School-level “Top Ten Youth Volunteers”<br>
 
 ## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- 2022 “Excellent Internship”, “First Prize in Teaching Design” and “Second Prize in Micro-teaching” for the centralized education internship of the class of 2018 at Guizhou Normal University.
+- 2021 “Second Prize”, “Teaching Design”, “Individual Lesson Evaluation”, “Second Prize”, High School Liberal Arts Team, 11th Student Teaching Skills Competition of Guizhou Normal University
+- 2020 Second Prize of Undergraduate Group in the Twelfth Congress of Guizhou Geographic Society and “Rulan Cup” Essay Competition
+- 2020 Third Prize of “The First National Study Tour Curriculum Design Competition” co-organized by Three Journals of Geography Teaching and Learning
+- 2018 Third Prize of the School-level Preliminary Competition of the National English Writing Competition of Guizhou Normal University “Foreign Studies Society Cup”.
+- 2021 Grand Prize of the Twelfth National Joint Field Practicum in Geography in Colleges and Universities
+ 
+## Honors
+
+- 2022 “Outstanding Graduate” and “Three Good Students” of Guizhou Province
+- 2022 “Outstanding Graduate” of Guizhou Normal University
+- 2020 “Top Ten Civilized Scholars” of Guizhou Normal University
+- Outstanding Student Leader’ of Guizhou Normal University for two consecutive years from 2019 to 2020.
+- Outstanding Youth League Member’ of Guizhou Normal University for two consecutive years from 2019 to 2020.
+- 2019-2022 “Three Good Students” of Guizhou Normal University for four consecutive years.
+
+
+
 
 <br>
