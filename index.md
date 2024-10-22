@@ -4,13 +4,15 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+Here is **Meng Chen (Aurora, 陈孟)**.<br>
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+I am a third-year graduate student from the University of Chinese Academy of Sciences. My major is in ecology, and my research interests are in Remote Sensing and Climate Change Research.
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.<br>
+I was very fortunate to be mentored by researcher Xu Xianli(https://isa.cas.cn/sourcedb/zw/zjrc/202012/t20201222_5873088.html) at the [Institute of Subtropical Agroecology], University of Chinese Academy of Sciences (https://www.ucas.ac.cn/).
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+You can find my CV here: [Chen Meng's Curriculum Vitae](../file/Curriculum_Vitae.pdf)
+
+[Email](chenmeng20010826@163.com)/[Github](https://aurorachan0826.github.io/Aurora-Chan.github.io/)/[Wechat](../Wechat.jpg) 
 
 ---
 
@@ -18,24 +20,35 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Cyber-Physical System
-- Applied Machine Learning
+- Remote Sensing
+- Climate Change
+- Geophysics
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+
+My current research focuses on the impacts of climate extremes on terrestrial ecosystems. My interest is in Remote Sensing and Climate Change Research.I hope to dedicate my talents to this worthy cause for the benefit of society.
 
 ---
 
-## News and Updates
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 J GEOGR SCI 2024 Acceptance of a paper
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+# 📖 Educations
 
-<br>
+Sep 2022 - Jun 2025 University of Chinese Academy of Sciences (Guaranteed Admission)	 Master's Degree in Ecology
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Sep 2018 - Jun 2022 Guizhou Normal University Bachelor’s Degree in Geographic Science
+
+# 📝 Publications
+[1] Chen Meng, Zhou, Q., Peng, D., Yan, W.. Exploring Spatiotemporal Heterogeneity of Vegetation Changes in Subtropical Humid Karst under CO2 Fertilization (Journal of Geographical Sciences, Accepted for proofreading) -- JCR Q1, IF:4.3, First Author
+
+[2] Peng, D & Zhou, Q., Tang, X., Yan, W., Chen, M. (2022). Changes in soil moisture caused solely by vegetation restoration in the karst region of southwest China. Journal of Hydrology, 613:128460. -- JCR Q1 TOP, IF:5.9, Fourth Author
+
+[3] Yan, W., Zhou, Q., Peng, D., Luo, Y., Chen, M., & Lu, Y. (2022). Response of surface-soil quality to secondary succession in karst areas in Southwest China: Case study on a limestone slope. Ecological Engineering, 178(November 2021), 106581 -- JCR Q1, IF:3.9, Fifth Author
+
+# 🎖 Honors and Awards
+
+2020.12 National Scholarship 
+
+2020.12 YeShengtao Scholarship
+
 
