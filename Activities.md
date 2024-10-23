@@ -11,11 +11,6 @@ title: Acitivities
 - The Twelfth Congress of Guizhou Geographic Society and Rulan Cup Thesis Competition
 - Volunteering at the China Hydrography Academic Annual Conference (Guiyang)
 - Volunteer service for the High-end Academic Forum on “Karst Environment and Mountain Geography” and the Expert Consultation Meeting on “14th Five-Year Plan” Development Strategy (Guiyang)
-![](/images/intership1.jpg)![](/images/intership2.jpg)
-![](/images/intership3.jpg)![](/images/intership7.jpg)
-![](/images/intership5.jpg)![](/images/intership6.jpg)
-![](/images/intership9.jpg)![](/images/intership8.jpg)
-
 
 ## Voluntary work experience
 - 2021.09-2021.12 High School Geography Teacher, Xinyi School, Guian District, Guizhou Province, China
@@ -29,6 +24,10 @@ title: Acitivities
 - 2019.01 ‘Youth Volunteerism and Dedication to the New Era’ Spring Festival Volunteer Service Activity in Tongzi County, Zunyi City, Guizhou Province in 2019
 - 2019.01 Zunyi Tongzi 2019 Countryside Cross-country Challenge Volunteer Services
 
+![](/images/intership1.jpg)![](/images/intership2.jpg)
+![](/images/intership3.jpg)![](/images/intership7.jpg)
+![](/images/intership5.jpg)![](/images/intership6.jpg)
+![](/images/intership9.jpg)![](/images/intership8.jpg)
 ![](/images/volu1.jpg)![](/images/volu2.jpg)
 ![](/images/volu3.jpg)![](/images/volu4.jpg)
 
