@@ -47,8 +47,8 @@ Sep 2018 - Jun 2022 Guizhou Normal University Bachelor’s Degree in Geographic 
 
 # 🎖 Honors and Awards
 
-2020.12 National Scholarship 
+-2020.12 National Scholarship 
 
-2020.12 YeShengtao Scholarship
+-2020.12 YeShengtao Scholarship
 
 
