@@ -34,5 +34,6 @@ title: Awards
 - 2020 Third Prize of “The First National Study Tour Curriculum Design Competition” co-organized by Three Journals of Geography Teaching and Learning
 - 2018 Third Prize of the School-level Preliminary Competition of the National English Writing Competition of Guizhou Normal University “Foreign Studies Society Cup”.
 - 2021 Grand Prize of the Twelfth National Joint Field Practicum in Geography in Colleges and Universities
-
+![](/mypaper/poster/aw1.jpg)![](/mypaper/poster/aw2.jpg)![](/mypaper/poster/aw3.jpg)
+![](/mypaper/poster/com1.jpg)![](/mypaper/poster/com2.jpg)![](/mypaper/poster/com3.jpg)
 <br>
