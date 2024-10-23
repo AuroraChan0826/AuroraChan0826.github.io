@@ -47,7 +47,7 @@ Project leader: Mr Xiang Gang Commissioned by: Guizhou Province Survey Ecologica
 
 -2020.05 - 2020.08 Responsible Part: Field data collection
 Aquatic Ecological Survey and Evaluation of Zunyi City Centre Water Environment Comprehensive Treatment Project
-Project leader: Mr Xiang Gang Commissioned by: CEC Group Guiyang Survey and Design Institute Co.
+Project leader: Mr Xiang Gang Commissioned by: CEC Group Guiyang Survey and Design Institute Co.、
 
 -2020.04 - 2020.08 Responsible Part: Field data collection
 Detailed Justification for Optimisation and Adjustment (Withdrawal) of Luodian Luoyang Nature Reserve
