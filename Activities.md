@@ -24,12 +24,8 @@ title: Acitivities
 - 2019.01 ‘Youth Volunteerism and Dedication to the New Era’ Spring Festival Volunteer Service Activity in Tongzi County, Zunyi City, Guizhou Province in 2019
 - 2019.01 Zunyi Tongzi 2019 Countryside Cross-country Challenge Volunteer Services
 
-![](/images/intership1.jpg)![](/images/intership2.jpg)
-![](/images/intership3.jpg)![](/images/intership7.jpg)
-![](/images/intership5.jpg)![](/images/intership6.jpg)
-![](/images/intership9.jpg)![](/images/intership8.jpg)
-![](/images/volu1.jpg)![](/images/volu2.jpg)
-![](/images/volu3.jpg)![](/images/volu4.jpg)
-
-
+![](/mypaper/poster/in1.jpg)![](/mypaper/poster/in2.jpg)![](/mypaper/poster/in3.jpg)
+![](/mypaper/poster/in4.jpg)![](/mypaper/poster/in5.jpg)![](/mypaper/poster/in6.jpg)
+![](/mypaper/poster/in7.jpg)![](/mypaper/poster/in8.jpg)![](/mypaper/poster/vo1.jpg)
+![](/mypaper/poster/vo2.jpg)![](/mypaper/poster/vo3.jpg)![](/mypaper/poster/vo4.jpg)
 <br>
