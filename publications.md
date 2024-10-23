@@ -7,8 +7,11 @@ title: Publications
 ## Journal Articles
 
 - Chen Meng, Zhou, Q*., Peng, D., Yan, W.. Exploring Spatiotemporal Heterogeneity of Vegetation Changes in Subtropical Humid Karst under CO2 Fertilization (Journal of Geographical Sciences, Accepted for proofreading) -- JCR Q1, IF:4.3, First Author
+
 -	Peng, D & Zhou, Q*., Tang, X., Yan, W., Chen, M. (2022). Changes in soil moisture caused solely by vegetation restoration in the karst region of southwest China. Journal of Hydrology, 613:128460. -- JCR Q1 TOP, IF:5.9, Fourth Author
+![l(https://AuroraChan0826.github.io/image/teams/202010.png)
 -	Yan, W., Zhou, Q*., Peng, D., Luo, Y., Chen, M., & Lu, Y. (2022). Response of surface-soil quality to secondary succession in karst areas in Southwest China: Case study on a limestone slope. Ecological Engineering, 178(November 2021), 106581 -- JCR Q1, IF:3.9, Fifth Author
+
 
 
   <br>
