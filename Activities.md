@@ -25,5 +25,6 @@ title: Acitivities
 - Volunteering at the China Hydrography Academic Annual Conference (Guiyang)
 - Volunteer service for the High-end Academic Forum on “Karst Environment and Mountain Geography” and the Expert Consultation Meeting on “14th Five-Year Plan” Development Strategy (Guiyang)
 
-
+![](/images/teams/activities1.jpg)![](/images/teams/activities2.jpg)![](/images/teams/activities3.jpg)
+![](/images/teams/activities4.jpg)![](/images/teams/activities5.jpg)![](/images/teams/activities6.jpg)
 <br>
