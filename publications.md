@@ -9,10 +9,12 @@ title: Publications
 - Chen Meng, Zhou, Q*., Peng, D., Yan, W.. Exploring Spatiotemporal Heterogeneity of Vegetation Changes in Subtropical Humid Karst under CO2 Fertilization (Journal of Geographical Sciences, Accepted for proofreading) -- JCR Q1, IF:4.3, First Author
 
 -	Peng, D & Zhou, Q*., Tang, X., Yan, W., Chen, M. (2022). Changes in soil moisture caused solely by vegetation restoration in the karst region of southwest China. Journal of Hydrology, 613:128460. -- JCR Q1 TOP, IF:5.9, Fourth Author
-![](https://AuroraChan0826.github.io/image/202010.png)
--	Yan, W., Zhou, Q*., Peng, D., Luo, Y., Chen, M., & Lu, Y. (2022). Response of surface-soil quality to secondary succession in karst areas in Southwest China: Case study on a limestone slope. Ecological Engineering, 178(November 2021), 106581 -- JCR Q1, IF:3.9, Fifth Author
-![](https://AuroraChan0826.github.io/image/202005.png)
 
+![](/images/202210.png)
+
+-	Yan, W., Zhou, Q*., Peng, D., Luo, Y., Chen, M., & Lu, Y. (2022). Response of surface-soil quality to secondary succession in karst areas in Southwest China: Case study on a limestone slope. Ecological Engineering, 178(November 2021), 106581 -- JCR Q1, IF:3.9, Fifth Author
+
+![](/images/202205.png)
 
   <br>
   
@@ -69,7 +71,10 @@ Leader and Study Activity Planner
 -2020.10-2021.10 Design and Practice of Secondary School Geography Research Curriculum Integrating Labour Education Project Chairperson
 Guizhou Provincial Student Innovation and Entrepreneurship Programme 2020: Design and Practice of Secondary School Geography Study Curriculum Integrating Labour Education Project 
 Leader, Master Planner
-  <br>
 
+![](/mypaper/poster/pro1.jpg)![](/mypaper/poster/pro2.jpg)![](/mypaper/poster/pro3.jpg)
+![](/mypaper/poster/pro4.jpg)![](/mypaper/poster/pro5.jpg)![](/mypaper/poster/pro6.jpg)
+![](/mypaper/poster/pro7.jpg)![](/mypaper/poster/pro8.jpg)
+  <br>
 
   <br>
