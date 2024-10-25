@@ -30,20 +30,20 @@ My current research focuses on the impacts of climate extremes on terrestrial ec
 ---
 
 ## 🔥 News
-- *2022.02*: &nbsp;🎉🎉 J GEOGR SCI 2024 Acceptance of a paper
+- *2024.10*: &nbsp;🎉🎉 J GEOGR SCI 2024 Acceptance of a paper
 
 ## 📖 Educations
 
-Sep 2022 - Jun 2025 University of Chinese Academy of Sciences (Guaranteed Admission)	 Master's Degree in Ecology
+- Sep 2022 - Jun 2025 University of Chinese Academy of Sciences (Guaranteed Admission)	 Master's Degree in Ecology
 
-Sep 2018 - Jun 2022 Guizhou Normal University Bachelor’s Degree in Geographic Science
+- Sep 2018 - Jun 2022 Guizhou Normal University Bachelor’s Degree in Geographic Science
 
 ## 📝 Publications
-[1] Chen Meng, Zhou, Q., Peng, D., Yan, W.. Exploring Spatiotemporal Heterogeneity of Vegetation Changes in Subtropical Humid Karst under CO2 Fertilization (Journal of Geographical Sciences, Accepted for proofreading) -- JCR Q1, IF:4.3, First Author
+- Chen Meng, Zhou, Q., Peng, D., Yan, W.. Exploring Spatiotemporal Heterogeneity of Vegetation Changes in Subtropical Humid Karst under CO2 Fertilization (Journal of Geographical Sciences, Accepted for proofreading) -- JCR Q1, IF:4.3, First Author
 
-[2] Peng, D & Zhou, Q., Tang, X., Yan, W., Chen, M. (2022). Changes in soil moisture caused solely by vegetation restoration in the karst region of southwest China. Journal of Hydrology, 613:128460. -- JCR Q1 TOP, IF:5.9, Fourth Author
+- Peng, D & Zhou, Q., Tang, X., Yan, W., Chen, M. (2022). Changes in soil moisture caused solely by vegetation restoration in the karst region of southwest China. Journal of Hydrology, 613:128460. -- JCR Q1 TOP, IF:5.9, Fourth Author
 
-[3] Yan, W., Zhou, Q., Peng, D., Luo, Y., Chen, M., & Lu, Y. (2022). Response of surface-soil quality to secondary succession in karst areas in Southwest China: Case study on a limestone slope. Ecological Engineering, 178(November 2021), 106581 -- JCR Q1, IF:3.9, Fifth Author
+- Yan, W., Zhou, Q., Peng, D., Luo, Y., Chen, M., & Lu, Y. (2022). Response of surface-soil quality to secondary succession in karst areas in Southwest China: Case study on a limestone slope. Ecological Engineering, 178(November 2021), 106581 -- JCR Q1, IF:3.9, Fifth Author
 
 ## 🎖 Honors and Awards
 
